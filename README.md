@@ -17,7 +17,7 @@ Create and boot a SSH ramdisk on checkm8 devices
 
 # Prerequsites
 
-1. A computer running macOS/linux
+1. A computer running macOS/linux no windows allowed!
 2. A checkm8 device (A7-A11)
 
 # Usage
